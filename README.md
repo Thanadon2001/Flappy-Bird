@@ -1,7 +1,7 @@
 # Reinforcement Learning – Flappy Bird mit DQN
 
 ## Motivation
-Dieses Projekt wurde im Rahmen des Kurses *Reinforcement Learning* an der **DHBW Mannheim** entwickelt.  
+Dieses Projekt wurde im Rahmen des Kurses *Reinforcement Learning* entwickelt.  
 Ziel war es, ein praxisnahes Beispiel für die Anwendung von Reinforcement Learning zu implementieren.  
 Die Wahl fiel auf *Flappy Bird*, da das Spiel einfach verständlich, schnell ausführbar und dennoch herausfordernd für einen RL-Agenten ist. Durch die geringe Anzahl möglicher Aktionen eignet es sich ideal zur Demonstration eines **Deep-Q-Network (DQN)**.  
 
