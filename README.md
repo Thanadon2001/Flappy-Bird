@@ -76,8 +76,6 @@ Diese Plots sind auch im **Projektbericht** enthalten und dienen zur Bewertung d
   - Negative Belohnung bei Kollision  
   - Zusätzliche Belohnung für zentrierte Flugbahn  
 
-Das Training basiert auf dem **klassischen DQN-Ansatz (Mnih et al., 2015)** mit Replay Buffer, Target Network und der Bellman-Gleichung.
-
 ## Ergebnisse und Ausblick
 - Der Agent konnte lernen, Pipes zu passieren und längere Episoden zu überleben.  
 - Die Visualisierungen zeigen eine deutliche Leistungssteigerung.  
